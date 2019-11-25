@@ -1,3 +1,5 @@
+NOTE: This is a FORK from https://github.com/chiphuyen/machine-learning-systems-design
+
 # Machine Learning Systems Design
 
 This booklet covers four main steps of designing a machine learning system:
